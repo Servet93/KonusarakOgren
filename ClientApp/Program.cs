@@ -10,6 +10,8 @@ namespace ClientApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Konusarak Ogren Istemci Yazılımı Başlatıldı.");
+            Console.ReadLine();
         }
     }
 }
